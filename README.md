@@ -1,0 +1,1 @@
+Learning React Native (and React) using the book by Boduch, Derks, and Sakhniuk.
